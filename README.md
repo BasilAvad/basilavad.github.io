@@ -63,17 +63,16 @@
     <h2>Contact Information</h2>
     <ul>
       <li>Email: basilavad25@gmail.com</li>
-      <li>Phone: (123) 456-7890</li>
       <li>Website: <a href="http://www.example.com">www.example.com</a></li>
-      <li>Address: City, State, Country</li>
+      <li>Address: Istanbul </li>
     </ul>
   </div>
   
   <div class="section">
     <h2>Education</h2>
     <ul>
-      <li>Bachelor of Science in Computer Science</li>
-      <li>University Name, City, Country</li>
+      <li>Bachelor of Mechatronics Engineering</li>
+      <li>Karabük Üniversitesi, Karabük, Türkiye</li>
       <li>Year of Graduation: 20XX</li>
     </ul>
   </div>
