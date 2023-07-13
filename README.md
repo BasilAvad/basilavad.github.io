@@ -1,4 +1,3 @@
-
 <html>
 <head>
   <title>CV - Basil AVAD</title>
@@ -57,6 +56,23 @@
     a:hover {
       text-decoration: underline;
     }
+    
+    /* Custom Colors */
+    .section {
+      background-color: #f9f9fc;
+    }
+    
+    h2 {
+      color: #337ab7;
+    }
+    
+    a {
+      color: #337ab7;
+    }
+    
+    .accent {
+      color: #c0392b;
+    }
   </style>
 </head>
 <body>
@@ -103,3 +119,5 @@
       <li>Skill 3</li>
     </ul>
   </div>
+</body>
+</html>
