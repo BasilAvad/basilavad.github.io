@@ -1,7 +1,6 @@
-<!DOCTYPE html>
 <html>
 <head>
-  <title>CV - Your Name</title>
+  <title>CV - Basil AVAD</title>
   <style>
     body {
       font-family: Arial, sans-serif;
@@ -58,12 +57,12 @@
   </style>
 </head>
 <body>
-  <h1>Your Name</h1>
+  <h1>Basil AVAD</h1>
   
   <div class="section">
     <h2>Contact Information</h2>
     <ul>
-      <li>Email: your.email@example.com</li>
+      <li>Email: basilavad25@gmail.com</li>
       <li>Phone: (123) 456-7890</li>
       <li>Website: <a href="http://www.example.com">www.example.com</a></li>
       <li>Address: City, State, Country</li>
