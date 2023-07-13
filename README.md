@@ -26,7 +26,7 @@
     
     .section {
       margin-bottom: 20px;
-      background-color: #e0e7f7;
+      background-color: #fff;
       padding: 20px;
       border-radius: 5px;
       box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
@@ -67,7 +67,7 @@
     <ul>
       <li>Email: basilavad25@gmail.com</li>
       <li>Website: <a href="http://www.example.com">www.example.com</a></li>
-      <li>Address: Istanbul </li>
+      <li>Address: Istanbul</li>
     </ul>
   </div>
   
@@ -103,5 +103,3 @@
       <li>Skill 3</li>
     </ul>
   </div>
-</body>
-</html>
