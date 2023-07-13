@@ -26,7 +26,7 @@
     
     .section {
       margin-bottom: 20px;
-      background-color: #337ab7;
+      background-color: #e0e7f7;
       padding: 20px;
       border-radius: 5px;
       box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
@@ -35,14 +35,14 @@
     .section h2 {
       border-bottom: 1px solid #ccc;
       padding-bottom: 10px;
-      color: #fff;
+      color: #333;
     }
     
     .section ul {
       margin: 0;
       padding: 0;
       list-style-type: none;
-      color: #fff;
+      color: #333;
     }
     
     .section ul li {
