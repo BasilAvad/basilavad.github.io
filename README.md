@@ -73,7 +73,7 @@
     <ul>
       <li>Bachelor of Mechatronics Engineering</li>
       <li>Karabük Üniversitesi, Karabük, Türkiye</li>
-      <li>Year of Graduation: 20XX</li>
+      <li>Year of Graduation: 2022</li>
     </ul>
   </div>
   
