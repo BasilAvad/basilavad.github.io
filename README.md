@@ -1,3 +1,4 @@
+<!DOCTYPE html>
 <html>
 <head>
   <title>CV - Basil AVAD</title>
@@ -25,7 +26,7 @@
     
     .section {
       margin-bottom: 20px;
-      background-color: #fff;
+      background-color: #337ab7;
       padding: 20px;
       border-radius: 5px;
       box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
@@ -34,12 +35,14 @@
     .section h2 {
       border-bottom: 1px solid #ccc;
       padding-bottom: 10px;
+      color: #fff;
     }
     
     .section ul {
       margin: 0;
       padding: 0;
       list-style-type: none;
+      color: #fff;
     }
     
     .section ul li {
